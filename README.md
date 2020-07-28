@@ -9,3 +9,4 @@ This is a google crawler to fetch typosquat onion domains.
 
 ### Instructions
 Populate the legit.txt file with legitimate onion links. The results will be displayed in format LegitOnion:TyposquatOnion:Similarity
+You can set the minimum similarity parameter in run2.js file
