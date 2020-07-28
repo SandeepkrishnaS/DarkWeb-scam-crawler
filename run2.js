@@ -18,6 +18,7 @@ function getTypos(exl,body){
 			let s = sim(exl.split('.')[0],td[k].split('.')[0]);
 			if(s>similarityMin && s<1){ 
 				//returnLinks.push(td[k]);
+				if(exl.length == td[k].length)
 				console.log(exl.split('.')[0]+" : "+td[k].split('.')[0]+" : "+s);
 			}
 		}

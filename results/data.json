@@ -55,18 +55,18 @@
                     "rank": 6
                 },
                 {
-                    "link": "https://chrome.google.com/webstore/detail/onionlink-onion-plugin/pgdmopepkimcegejhkbhancahpppfbbj?hl=en",
-                    "title": "OnionLink .onion plugin - Google Chrome",
-                    "snippet": "Oct 20, 2016 - onion links embedded in HTML pages so that they instead point to OnionLink. With this plugin you can get to 100% even when there is malformed ...",
-                    "visible_link": "chrome.google.com › detail › onionlink-onion-plugin",
-                    "date": "Oct 20, 2016",
-                    "rank": 7
-                },
-                {
                     "link": "https://www.deeponionweb.com/",
                     "title": "DeepOnionWeb | Deep Web News .Onion Directory Darknet ...",
                     "snippet": "DeepOnionWeb is the best source for official darknet market links, darknet related news, and fresh alternative deepweb market URLs.",
                     "visible_link": "www.deeponionweb.com",
+                    "date": "",
+                    "rank": 7
+                },
+                {
+                    "link": "https://tb-manual.torproject.org/onion-services/",
+                    "title": "ONION SERVICES | Tor Project | Tor Browser Manual",
+                    "snippet": "onion URL also helps Tor ensure that it is connecting to the right location and that the connection is not being tampered with. HOW TO ACCESS AN ONION ...",
+                    "visible_link": "tb-manual.torproject.org › onion-services",
                     "date": "",
                     "rank": 8
                 },
@@ -79,10 +79,10 @@
                     "rank": 9
                 },
                 {
-                    "link": "https://tb-manual.torproject.org/onion-services/",
-                    "title": "ONION SERVICES | Tor Project | Tor Browser Manual",
-                    "snippet": "onion URL also helps Tor ensure that it is connecting to the right location and that the connection is not being tampered with. HOW TO ACCESS AN ONION ...",
-                    "visible_link": "tb-manual.torproject.org › onion-services",
+                    "link": "https://www.reddit.com/r/onions/comments/blqm1g/onion_link_collections/",
+                    "title": "Onion Link Collections : onions - Reddit",
+                    "snippet": "It is recommended that you read our wiki and then read the sidebar here. You will be able to figure out how to find your own .onion urls and websites.",
+                    "visible_link": "www.reddit.com › onions › comments › onion_link_co...",
                     "date": "",
                     "rank": 10
                 }
@@ -92,7 +92,7 @@
             "top_ads": [],
             "bottom_ads": [],
             "places": [],
-            "time": "Tue, 28 Jul 2020 10:40:34 GMT"
+            "time": "Tue, 28 Jul 2020 12:45:13 GMT"
         }
     }
 }
