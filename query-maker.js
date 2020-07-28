@@ -12,7 +12,7 @@ lines.forEach((line) => {
 		linea = (line.match(on()))[0];
 		exlines.push(linea);
 		line = linea.substr(0,8);
-		query.push("link:"+line+" .onion");//-"+linea);
+		query.push("link:"+line+"* .onion");//-"+linea);
 	/*	if(line.substr(0,4) != 'http'){
 			line = line.substr(0,4);
         		query.push(line);
@@ -31,7 +31,5 @@ lines.forEach((line) => {
 	catch(e){console.log(e);}
     });
 
-console.log(query);
 exports.query = query;
-console.log(exlines);
 exports.exlines = exlines;

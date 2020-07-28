@@ -11,6 +11,9 @@ const qm = require('./query-maker.js');
 
 function getTypos(exl,body){
 	let td = body.match(onionRegex());
+	if(td != null){
+	td = td.filter(function(elem, pos){return td.indexOf(elem) == pos;});
+	}
 	let returnLinks = [];
 	try{
 		let len = td.length;
