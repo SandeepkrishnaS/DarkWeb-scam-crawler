@@ -1,0 +1,98 @@
+{
+    "link:3g2upl4p .onion": {
+        "1": {
+            "num_results": "",
+            "no_results": false,
+            "effective_query": "",
+            "right_info": {},
+            "results": [
+                {
+                    "link": "https://onion.link/",
+                    "title": "OnionLink. We link you up with the onions.",
+                    "snippet": "Enabling search and global access to Tor's onion-sites.",
+                    "visible_link": "onion.link",
+                    "date": "",
+                    "rank": 1
+                },
+                {
+                    "link": "https://www.expressvpn.com/blog/best-onion-sites-on-dark-web/",
+                    "title": "The 9 Best Onion Sites to Visit on the Dark Web | Expressvpn",
+                    "snippet": "Many of those links are defunct, and even more of them link to scams or potentially illegal activities. Click with caution! It's the only site in this list that already has ...",
+                    "visible_link": "www.expressvpn.com › Blog › Featured",
+                    "date": "",
+                    "rank": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/.onion",
+                    "title": ".onion - Wikipedia",
+                    "snippet": "Jump to External links - exitnode + .exit, so that a user wanting to connect to http://www.torproject.org/ through node tor26 would have to enter the URL http:// ...",
+                    "visible_link": "en.wikipedia.org › wiki",
+                    "date": "Jump to External links",
+                    "rank": 3
+                },
+                {
+                    "link": "https://www.howtogeek.com/272049/how-to-access-.onion-sites-also-known-as-tor-hidden-services/",
+                    "title": "How to Access .onion Sites (Also Known as Tor Hidden ...",
+                    "snippet": "Jul 12, 2017 - When you connect to Tor, your internet activity is sent through the Tor network, anonymizing your Internet activity so it can't be snooped on, and ...",
+                    "visible_link": "www.howtogeek.com › how-to-access-.onion-sites-also...",
+                    "date": "Jul 12, 2017",
+                    "rank": 4
+                },
+                {
+                    "link": "https://linuxsecurityblog.com/2016/01/15/best-onion-links/",
+                    "title": "Best Onion Links | ls /blog",
+                    "snippet": "Jan 15, 2016 - Introduction Points Ahmia.fi – Clearnet search engine for Tor Hidden Services The Hidden Wiki – Wiki style link list of TOR, most links there are ...",
+                    "visible_link": "linuxsecurityblog.com › 2016/01/15 › best-onion-links",
+                    "date": "Jan 15, 2016",
+                    "rank": 5
+                },
+                {
+                    "link": "https://archives.seul.org/tor/talk/Jan-2016/msg00255.html",
+                    "title": "Re: [tor-talk] onion routing MITM - Archives",
+                    "snippet": "Jan 26, 2016 - To: tor-talk@xxxxxxxxxxxxxxxxxxxx; Subject: Re: [tor-talk] onion routing ... Thehiddenwiki could give me the link http://somerandomletters.org, and of ... take me about 32 times as much work to get one beginning \"3g2upl4p\", ...",
+                    "visible_link": "archives.seul.org › tor › talk › Jan-2016 › msg00255",
+                    "date": "Jan 26, 2016",
+                    "rank": 6
+                },
+                {
+                    "link": "https://chrome.google.com/webstore/detail/onionlink-onion-plugin/pgdmopepkimcegejhkbhancahpppfbbj?hl=en",
+                    "title": "OnionLink .onion plugin - Google Chrome",
+                    "snippet": "Oct 20, 2016 - onion links embedded in HTML pages so that they instead point to OnionLink. With this plugin you can get to 100% even when there is malformed ...",
+                    "visible_link": "chrome.google.com › detail › onionlink-onion-plugin",
+                    "date": "Oct 20, 2016",
+                    "rank": 7
+                },
+                {
+                    "link": "https://www.deeponionweb.com/",
+                    "title": "DeepOnionWeb | Deep Web News .Onion Directory Darknet ...",
+                    "snippet": "DeepOnionWeb is the best source for official darknet market links, darknet related news, and fresh alternative deepweb market URLs.",
+                    "visible_link": "www.deeponionweb.com",
+                    "date": "",
+                    "rank": 8
+                },
+                {
+                    "link": "http://foggybells.top/open_in/5/",
+                    "title": "暗网网址 - 学习笔记",
+                    "snippet": "Sep 21, 2018 - http://tt3j2x4k5ycaa5zt.onion/onions.php onion link list ... 地址:http://torproject.org/1.tor浏览器的默认搜索引擎--DuckDuckGohttps://3g2upl4p.",
+                    "visible_link": "foggybells.top › open_in",
+                    "date": "Sep 21, 2018",
+                    "rank": 9
+                },
+                {
+                    "link": "https://tb-manual.torproject.org/onion-services/",
+                    "title": "ONION SERVICES | Tor Project | Tor Browser Manual",
+                    "snippet": "onion URL also helps Tor ensure that it is connecting to the right location and that the connection is not being tampered with. HOW TO ACCESS AN ONION ...",
+                    "visible_link": "tb-manual.torproject.org › onion-services",
+                    "date": "",
+                    "rank": 10
+                }
+            ],
+            "top_products": [],
+            "right_products": [],
+            "top_ads": [],
+            "bottom_ads": [],
+            "places": [],
+            "time": "Tue, 28 Jul 2020 10:40:34 GMT"
+        }
+    }
+}

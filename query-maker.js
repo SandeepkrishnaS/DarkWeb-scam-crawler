@@ -1,4 +1,5 @@
 let query = [];
+let exlines = [];
 
 const fs = require('fs');
 const on = require('onion-regex');
@@ -9,8 +10,9 @@ lines.forEach((line) => {
 	try{
 	if(line != ''){
 		linea = (line.match(on()))[0];
-		line = linea.substr(0,6);
-		query.push(line + " -"+linea);
+		exlines.push(linea);
+		line = linea.substr(0,8);
+		query.push("link:"+line+" .onion");//-"+linea);
 	/*	if(line.substr(0,4) != 'http'){
 			line = line.substr(0,4);
         		query.push(line);
@@ -31,3 +33,5 @@ lines.forEach((line) => {
 
 console.log(query);
 exports.query = query;
+console.log(exlines);
+exports.exlines = exlines;
